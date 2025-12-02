@@ -6,7 +6,6 @@ A web-based Student Enrollment Form developed to demonstrate CRUD operations usi
 - [Description](#description)
 - [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)
 - [Release History](#release-history)
-- [Illustrations](#illustrations)
 - [Scope of Functionalities](#scope-of-functionalities)
 - [Examples of Use](#examples-of-use)
 - [Project Status](#project-status)
@@ -29,9 +28,7 @@ This project utilizes JsonPowerDB (JPDB) for backend storage. The benefits of us
     * Integrated JsonPowerDB for `PUT` (Save) requests.
     * Added validation for form fields.
 
-## Illustrations
-*(Optional: You can add screenshots of your form here later by uploading images to the repo)*
-![Form Screenshot](https://via.placeholder.com/600x400?text=Student+Enrollment+Form+Screenshot)
+
 
 ## Scope of Functionalities
 - **Data Entry:** Users can input student details.
